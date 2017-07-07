@@ -1,0 +1,15 @@
+2017-07-07 15:14:31,301 - __main__ - DEBUG - debug message
+2017-07-07 15:14:31,301 - __main__ - INFO - info message
+2017-07-07 15:14:31,301 - __main__ - WARNING - warn message
+2017-07-07 15:14:31,301 - __main__ - ERROR - error message
+2017-07-07 15:14:31,301 - __main__ - CRITICAL - critical message
+2017-07-07 15:15:32,008 - logger - DEBUG - debug message
+2017-07-07 15:15:32,008 - logger - INFO - info message
+2017-07-07 15:15:32,008 - logger - WARNING - warn message
+2017-07-07 15:15:32,008 - logger - ERROR - error message
+2017-07-07 15:15:32,008 - logger - CRITICAL - critical message
+2017-07-07 15:15:32,008 - logger - DEBUG - debug message
+2017-07-07 15:15:32,008 - logger - INFO - info message
+2017-07-07 15:15:32,008 - logger - WARNING - warn message
+2017-07-07 15:15:32,008 - logger - ERROR - error message
+2017-07-07 15:15:32,008 - logger - CRITICAL - critical message
