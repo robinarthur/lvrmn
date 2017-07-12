@@ -1,2 +1,33 @@
 
 __pycache__/logger.cpython-36.pyc
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# packaging directories
+build/
+dist/
+*.egg-info/
+*.eggs/
+*.cache/
+
+# C extensions
+*.so
+
+# virtualenv folder
+venv/
+
+# backup files
+*~
+
+# scrapemeagain specific
+data/
+log/
+venv/
+venv3/
+useragents.json
+
+# tests
+.coverage
