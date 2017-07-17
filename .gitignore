@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 __pycache__/logger.cpython-36.pyc
 
 
+=======
+>>>>>>> 92afa68e5da4d370c156cf0c6cf455c77482f49b
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -21,6 +24,7 @@ venv/
 # backup files
 *~
 
+<<<<<<< HEAD
 # scrapemeagain specific
 data/
 log/
@@ -31,3 +35,7 @@ useragents.json
 # tests
 .coverage
 setup_toripchanger.py
+=======
+# py.test coverage
+.coverage
+>>>>>>> 92afa68e5da4d370c156cf0c6cf455c77482f49b
