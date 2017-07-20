@@ -1,0 +1,1 @@
+.git.gitattributesatom-beautifyatom-clockatom-pastebinatom-python-runatom-runnerautocomplete-emojisbusy-signalfile-iconsintentionslanguage-vbalanguage-vbscriptlinterlinter-ui-defaultminimap-pigmentsminimap-plusmk_lst.pypigmentsplatformio-ide-terminalpython-debuggerpython-indentREADME.mdtodo-show
