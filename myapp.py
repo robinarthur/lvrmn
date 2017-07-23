@@ -9,5 +9,8 @@ def main():
     lr.logger.error('error message')
     lr.logger.critical('critical message')
 
+    #Aktienliste
+    
+
 if __name__ == '__main__':
     main()
